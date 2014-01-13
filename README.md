@@ -1,4 +1,0 @@
-TechSample
-==========
-
-One more experiment
